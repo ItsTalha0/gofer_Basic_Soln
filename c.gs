@@ -1,0 +1,2 @@
+ctype Nat where
+:
